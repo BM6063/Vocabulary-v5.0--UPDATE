@@ -1,0 +1,1 @@
+This project was completed by Maureen. The updated google sheet with the updated descriptions of the  140 Vocabularies will be used to update the OHDSI GitHub site. The OHDSI repository was forked, file uploaded, and requested a pull request.
